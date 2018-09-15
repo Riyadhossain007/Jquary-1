@@ -1,0 +1,30 @@
+#panel, #flip {
+	width: 60%;
+	margin:0 auto;
+    padding: 100px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;}
+
+.odd{
+    background: orange;
+    padding: 10px;
+}
+.even{
+    background: skyblue;
+    padding: 10px;
+}
+
+.first{
+    background: #b2dba1;
+    padding: 10px;
+}
+.last{
+    background: #f2dede;
+    padding: 10px;
+}
+.nth{
+    background: maroon;
+    color: oldlace;
+    padding: 10px;
+}
